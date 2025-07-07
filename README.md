@@ -46,18 +46,24 @@ The post-pandemic education landscape, with billions in federal relief flowing t
 education-funding-analysis/
 ├── README.md
 ├── docs/
+│   ├── README.md
 │   ├── final_report.pdf
-│   ├── methodology.md
-│   ├── data_codebooks/
-│   └── seda_documentation.pdf
+|   ├── 2020304_FY17F33_Documentation.pdf
+|   ├── seda_documentation.pdf
+│   ├── seda_codebook_geodist_5.0.xlsx
+│   └── seda_codebook_cov_geodist_5.0.xlsx/
 ├── code/
+|   ├── README.md
 │   ├── data_cleaning.R
-│   ├── exploratory_analysis.R
-│   └── multilevel_models.R
+│   ├── exploratory_data_analysis.R
+│   └── multilevel_modeling.R/
 └── results/
-    ├── summary_statistics/
-    ├── model_outputs/
-    └── policy_implications/
+    ├── README.md 
+    ├── achivement_by_ses.png
+    ├── achivement_logspending_byses.png
+    ├──dis_expenditure_per_pupil.png
+    ├──log_exp_per_pupil.png
+    └── model_results.html/
 ```
 
 The analysis was conducted in R using multilevel modeling packages (lme4) and data manipulation tools (tidyverse). The code follows a clear workflow from data preparation through statistical modeling to policy-relevant interpretation.
