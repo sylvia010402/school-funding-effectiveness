@@ -22,9 +22,9 @@ The data shows that socioeconomic context determines whether additional funding 
 
 ## Methodology
 
-This study employed multilevel modeling to examine the nested structure of time within districts, using data from three comprehensive national sources: the Stanford Education Data Archive for achievement measures, the Common Core of Data for financial information, and the American Community Survey for socioeconomic indicators.
+This study employed multilevel modeling to examine the nested structure of time within districts. Using data from two comprehensive national sources: the Stanford Education Data Archive for achievement measures, the Common Core of Data for financial information. 
 
-The analysis utilized a Mundlak decomposition approach to separate within-district changes from between-district differences, allowing for precise estimation of how spending effectiveness varies by community context. Cross-level interactions tested whether the relationship between socioeconomic status and achievement depends on funding levels, revealing the conditional nature of resource effectiveness.
+The analysis utilized a Mundlak decomposition approach to separate within-district changes from between-district differences, allowing for precise estimation of how spending effectiveness varies by community context. Cross-level interactions tested whether the relationship between socioeconomic status and achievement depends on funding levels, revealing the conditional nature of resource effectiveness. It builds up the models in three layers progressively: 1. A random intercept model with fixed effect. 2. Adding Mundlak decomposition mean of SES and per pupil expenditure and 3. Adding cross-level interaction. See details in [final report](docs/final_report.pdf)
 
 ## Policy Implications
 
