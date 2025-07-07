@@ -10,7 +10,7 @@ High-socioeconomic districts see significant achievement gains from additional s
 
 The data shows that socioeconomic context determines whether additional funding translates into improved outcomes. In wealthy communities, extra dollars flow efficiently into better teaching, enhanced programs, and improved facilities. In disadvantaged communities, the same dollars often fail to move the needle on student achievement.
 
-![alt text](..results/achivement_by_ses.png)
+![alt text](results/achivement_by_ses.png)
 
 ## Key Findings
 
