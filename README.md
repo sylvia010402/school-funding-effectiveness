@@ -1,6 +1,6 @@
 # School Funding vs. SES: What Really Drives Student Achievement?
 
-*An education policy analysis examining whether money matters in K-12 education—and for whom*
+*An education policy analysis examining whether money matters in K-12 education, and for whom*
 
 ## The Education Equity Question That Keeps Policymakers Up at Night
 
@@ -21,17 +21,17 @@ Traditional education finance assumes more money leads to better outcomes. But d
 
 ## Key Findings: Money Matters, But Context Is Everything
 
-### 🎯 **The Main Discovery: Spending Benefits Vary Dramatically by Community Wealth**
+### **The Main Discovery: Spending Benefits Vary Dramatically by Community Wealth**
 
 The data reveals a striking pattern: **high-SES districts get significant achievement boosts from additional spending, while low-SES districts see little to no benefit.** This isn't just a statistical curiosity—it represents a fundamental challenge to how we think about education equity.
 
-### 📊 **The Numbers Tell the Story**
+### **The Numbers Tell the Story**
 
 - **Long-term SES differences across districts** are 10x more predictive of achievement than year-to-year SES changes
 - **74% of achievement variation occurs between districts** rather than within districts over time
 - **The interaction effect is significant**: Each additional dollar spent has drastically different impacts depending on community SES
 
-### 🔍 **What This Means for Policy**
+### **What This Means for Policy**
 
 **Traditional funding approaches may be inadequate.** Simply increasing per-pupil spending across the board won't close achievement gaps—and might actually widen them if wealthy districts benefit more from additional resources.
 
@@ -55,16 +55,16 @@ The data reveals a striking pattern: **high-SES districts get significant achiev
 
 ## Policy Implications: Beyond "Throw Money at the Problem"
 
-### 🏛️ **For State Legislators**
+### **For State Legislators**
 Your funding formulas may be inadvertently increasing inequality. **Consider how additional resources flow differently through wealthy versus disadvantaged communities.** Weight-based funding alone isn't enough—implementation support matters.
 
-### 🎓 **For District Leaders**
+### **For District Leaders**
 **Context matters for resource allocation.** High-SES districts can leverage additional funds more effectively, suggesting they have underlying capacity advantages. Low-SES districts may need different types of support beyond just more money.
 
-### 📋 **For Federal Policymakers**
+### **For Federal Policymakers**
 Title I and other federal programs should consider **how community capacity affects resource effectiveness.** Funding alone may not be sufficient—wraparound supports and capacity building may be essential.
 
-### 🔬 **For Researchers**
+### **For Researchers**
 This analysis demonstrates the importance of **examining interaction effects** rather than assuming uniform treatment effects across contexts. Future research should explore the mechanisms behind these differential impacts.
 
 ## Technical Approach: Robust Methods for Complex Questions
